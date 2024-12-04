@@ -1,0 +1,16 @@
+.new-expense__actions button {
+  font: inherit;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border: 1px solid #40005d;
+  background-color: #40005d;
+  color: white;
+  margin-top: 10px;
+  border-radius: 12px;
+}
+
+.new-expense__actions button:hover,
+.new-expense__actions button:active {
+  background-color: #510674;
+  border-color: #510674;
+}

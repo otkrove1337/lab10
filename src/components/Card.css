@@ -1,0 +1,13 @@
+body{
+    background-color: #4B4B4B;
+}
+.title{
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+.card {
+    border-radius: 12px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+  
